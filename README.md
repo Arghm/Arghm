@@ -5,7 +5,7 @@
   <h2 align="center">
     Meet the Sofware Engineer
   </h2>
-  <img src="https://github.com/Arghm/Arghm/blob/main/sofware%20engineers.jpg" width="500"/>
+  <img src="https://github.com/Arghm/Arghm/blob/main/engineer.png" width="900"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sergey-pishchansky/" target="_blank" rel="noopener">
