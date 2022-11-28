@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
+<div id="visitcounter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arghm&style=flat-square&color=green" alt=""/>
+</div>
 
 ## 👨‍💻 About me:
 I'm a Backend Developer from Russia.
