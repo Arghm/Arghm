@@ -21,9 +21,9 @@
 
 ## 👨‍💻 About me:
 I'm a Backend Developer from Russia.
-- :telescope: I’m currently working as a software engineer at one of the [biggest bank in Russia](https://www.psbank.ru/Bank)
+- :telescope: I’m currently working as a **Software Engineer** at one of the [biggest bank in Russia](https://www.psbank.ru/Bank)
 - ex **Software Engineer** at [another bank](https://finmoll.ru/)
-- ex **Scientific researcher** at [research institute](https://inme-ras.ru/eng/)
+- ex **Scientific Researcher** at [research institute](https://inme-ras.ru/eng/)
 - :zap: In my free time read tech articles
 
 ## :hammer_and_wrench: Languages and Tools :
