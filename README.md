@@ -14,9 +14,6 @@
   <a href="mailto:pishchanskysv@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail Badge"/>
   </a>
-  <a href="https://t.me/SergeyPischanskiy" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
 </div>
 <div id="visitcounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Arghm&style=flat-square&color=green" alt=""/>
