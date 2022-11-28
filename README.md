@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-## Meet the 
-**Senior Software Engineer** at [@bank](https://www.psbank.ru/Bank), ex **Software Engineer** as [@another bank](https://finmoll.ru/), ex **Scientific researcher** at [research institute](https://inme-ras.ru/eng/)
+## Meet the
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/Ss0EiG29MulxjBXKVu/giphy.gif?cid=ecf05e47q1q7jmqhnq8m872ynrgr3d0nd5r6bk9a9fhug6ow&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
+🔭 I’m currently working on one of the [biggest bank in Russia](https://www.psbank.ru/Bank), ex **Software Engineer** at [another bank](https://finmoll.ru/), ex **Scientific researcher** at [research institute](https://inme-ras.ru/eng/)
 
 <!--
 **Arghm/Arghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
