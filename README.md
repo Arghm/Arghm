@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Meet the 
+**Senior Software Engineer** at [@bank](https://www.psbank.ru/Bank), ex **Software Engineer** as [@another bank](https://finmoll.ru/), ex **Scientific researcher** at [research institute](https://inme-ras.ru/eng/)
+
 <!--
 **Arghm/Arghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
