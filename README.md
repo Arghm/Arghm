@@ -3,9 +3,9 @@
 </h1>
 <div id="header" align="center">
   <h2 align="center">
-    Meet The
+    Meet The Sofware Engineer
   </h2>
-  <img src="https://media.giphy.com/media/Ss0EiG29MulxjBXKVu/giphy.gif" width="200"/>
+  <img src="https://github.com/Arghm/Arghm/blob/main/sofware%20engineers.jpg" width="600"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sergey-pishchansky/" target="_blank" rel="noopener">
