@@ -3,7 +3,7 @@
 </h1>
 <div id="header" align="center">
   <h2 align="center">
-    Meet the Sofware Engineer
+    Meet the Software Engineer
   </h2>
   <img src="https://github.com/Arghm/Arghm/blob/main/engineer.png" width="900"/>
 </div>
